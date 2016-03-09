@@ -1,0 +1,57 @@
+    1  git
+    2  git help
+    3  git config --global user.name "Rajitha"
+    4  git config --global user.name "rgunni"
+    5  git config --global user.email rgunni@my.okcu.edu
+    6  vim hello.c
+    7  ls
+    8  mkdir Myfirst
+    9  ls
+   10  mkdir MyFirst
+   11  ls
+   12  rm myFirst
+   13  ls
+   14  rmdir myFirst
+   15  ls
+   16  myFirst
+   17  cd myFirst
+   18  ls
+   19  rm hello.c
+   20  ls
+   21  cd..
+   22  cd
+   23  ls
+   24  rmdir myFirst
+   25  cd myFirst
+   26  ls
+   27  cd
+   28  rm hello.c
+   29  ls
+   30  rmdir myFirst
+   31  mkdir MyFirst
+   32  rmdir MyFirst
+   33  cd MyFirst
+   34  ls
+   35  pwd
+   36  vim hello.c
+   37  git init
+   38  ls
+   39  git add .
+   40  git commit
+   41  git status
+   42  vim hello.c
+   43  git status
+   44   git add .
+   45  git commit
+   46  git log
+   47  git remote add origin https://github.com/rgunni333/myFirst.git
+   48  git push -u origin master
+   49  git push -u origin master
+   50  git remote add origin1 https://github.com/rgunni333/myFirst.git
+   51  git push -u origin1 master
+   52  git push -u origin1 master
+   53  git remote add origin2 https://github.com/rgunni333/git1.git
+   54  git push -u origin2 master
+   55  git push -u origin2 master
+   56  ls
+   57  history>myhistory
